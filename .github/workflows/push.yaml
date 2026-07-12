@@ -68,5 +68,5 @@ jobs:
           push: true
           platforms: linux/amd64
           tags: |
-            mishkakovalqa/go1fl-11-sprint-final:${{ github.ref_name }}
-            mishkakovalqa/go1fl-11-sprint-final:latest
+            horsfx/go1fl-11-sprint-final:${{ github.ref_name }}
+            horsfx/go1fl-11-sprint-final:latest
